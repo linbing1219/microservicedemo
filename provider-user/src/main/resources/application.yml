@@ -1,0 +1,13 @@
+server:
+  port: 7900  # 程序启动端口，tomcat端口
+
+spring:
+  application:
+    name: privider-user
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://linbing:linbing@localhost:10080/eureka
+  instance:
+    prefer-ip-address: true

@@ -1,0 +1,14 @@
+server:
+  port: 10080
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://linbing:linbing@localhost:10080/eureka
+
+spring:
+  security:
+    user:
+      name: linbing
+      password: linbing

@@ -1,0 +1,22 @@
+server:
+  port: 8901
+
+spring:
+  application:
+    name: consumer-order-ribbon
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://linbing:linbing@localhost:10080/eureka
+  instance:
+    prefer-ip-address: true
+
+# 配置ribbon的负载均衡算法
+PRIVIDER-USER:
+  ribbon:
+    NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+
+logging:
+  level:
+    com.jimmylin.springcloud.feign.IFeignClient: DEBUG

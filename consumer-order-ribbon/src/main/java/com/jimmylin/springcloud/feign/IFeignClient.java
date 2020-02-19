@@ -6,7 +6,8 @@ import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 
-@FeignClient(name = "privider-user", configuration = FeignClientConfig.class)
+//@FeignClient(name = "privider-user", configuration = FeignClientConfig.class, fallback = HystrixClientFallback.class)
+@FeignClient(name = "privider-user", fallback = HystrixClientFallback.class)
 public interface IFeignClient {
 
     @GetMapping("/user/{id}")

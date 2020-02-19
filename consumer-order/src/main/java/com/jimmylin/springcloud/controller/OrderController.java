@@ -1,4 +1,4 @@
-package com.jimmylin.controller;
+package com.jimmylin.springcloud.controller;
 
 import com.jimmylin.springcloud.pojo.User;
 import com.netflix.appinfo.InstanceInfo;

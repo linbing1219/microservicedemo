@@ -1,0 +1,19 @@
+server:
+  port: 8902
+
+spring:
+  application:
+    name: consumer-order-hystrix
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://linbing:linbing@localhost:10080/eureka
+  instance:
+    prefer-ip-address: true
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

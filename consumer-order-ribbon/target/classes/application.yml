@@ -20,3 +20,7 @@ PRIVIDER-USER:
 logging:
   level:
     com.jimmylin.springcloud.feign.IFeignClient: DEBUG
+
+feign:
+  hystrix:
+    enabled: true

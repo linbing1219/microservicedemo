@@ -29,6 +29,7 @@ public class OrderController {
         return user;
     }
 
+
     @GetMapping("/test")
     public String testLoadBalance() {
         ServiceInstance serviceInstance = loadBalancerClient.choose("PRIVIDER-USER");

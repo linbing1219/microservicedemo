@@ -10,43 +10,7 @@
     </loaded-modules>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b32a5235-f0e7-4c11-8c7c-f74e3b24e784" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_afterburner_2_10_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_15_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_javanica_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_serialization_1_5_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_reactive_streams_1_2_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_9.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_hystrix_dashboard_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_netflix_ribbon_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_cloud_spring_cloud_starter_netflix_hystrix_dashboard_2_1_1_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_d3js_3_4_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_2_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/consumer-order-hystrix/consumer-order-hystrix.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/consumer-order-ribbon.iml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/consumer-order-ribbon.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/ConsumerOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/ConsumerOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/feign/IFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/feign/IFeignClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/ConsumerOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/ConsumerOrder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/controller/OrderController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/feign/IFeignClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order-ribbon/target/classes/com/jimmylin/springcloud/feign/IFeignClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order/src/main/java/com/jimmylin/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/consumer-order/src/main/java/com/jimmylin/springcloud/controller/OrderController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/consumer-order/target/classes/com/jimmylin/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-user/src/main/java/com/jimmylin/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/provider-user/src/main/java/com/jimmylin/springcloud/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/provider-user/target/classes/com/jimmylin/controller/UserController.class" beforeDir="false" />
-    </list>
+    <list default="true" id="b32a5235-f0e7-4c11-8c7c-f74e3b24e784" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/classes/" />
     <ignored path="$PROJECT_DIR$/provider-user/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -91,8 +55,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/ConsumerOrder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="101">
-              <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+            <state relative-caret-position="180">
+              <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#528#529#0" expanded="true" />
@@ -114,7 +78,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/springcloud/controller/OrderController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
+            <state relative-caret-position="-74">
               <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
             </state>
           </provider>
@@ -221,8 +185,8 @@
         <option value="$PROJECT_DIR$/consumer-order-ribbon/src/main/java/com/jimmylin/springcloud/ConsumerOrder.java" />
         <option value="$PROJECT_DIR$/consumer-order-ribbon/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/springcloud/configuration/HystrixConfiguration.java" />
-        <option value="$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/ConsumerOrder.java" />
         <option value="$PROJECT_DIR$/consumer-order-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/ConsumerOrder.java" />
       </list>
     </option>
   </component>
@@ -252,59 +216,6 @@
             <path>
               <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
               <item name="microservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jimmylin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="jimmylin" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="microservicedemo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="microservice" type="462c0819:PsiDirectoryNode" />
-              <item name="consumer-order-hystrix" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -478,16 +389,15 @@
       <option name="presentableId" value="Default" />
       <updated>1581923309323</updated>
       <workItem from="1581923313346" duration="15712000" />
-      <workItem from="1581995438135" duration="15548000" />
+      <workItem from="1581995438135" duration="15790000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31260000" />
+    <option name="totallyTimeSpent" value="31502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="-257" width="1920" height="988" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -825,13 +735,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/springcloud/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -856,10 +759,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/springcloud/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-74">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/consumer-order-hystrix/src/main/java/com/jimmylin/ConsumerOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+        <state relative-caret-position="180">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#528#529#0" expanded="true" />

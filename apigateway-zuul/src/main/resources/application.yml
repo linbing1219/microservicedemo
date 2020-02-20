@@ -1,0 +1,26 @@
+server:
+  port: 10090  # 程序启动端口，tomcat端口
+
+spring:
+  application:
+    name: apigateway-zuul
+  security:
+    user:
+      name: lin
+      password: 123
+eureka:
+  client:
+    service-url:
+      defaultZone: http://linbing:linbing@localhost:10080/eureka
+  instance:
+    prefer-ip-address: true
+#zuul:
+#  routes:
+#    privider-user: /abc/** #给指定服务映射，比如给privider-user添加映射地址为/abc
+#  ignored-services: consumer-order
+zuul:
+  routes:
+    abcdefg:
+      path: /abcd/**
+      # serviceId: privider-user
+      url: http://192.168.0.185:7900/

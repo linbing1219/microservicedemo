@@ -14,6 +14,7 @@
     <module>eureka</module>
     <module>consumer-order-ribbon</module>
     <module>consumer-order-hystrix</module>
+      <module>apigateway-zuul</module>
   </modules>
 
   <parent>
